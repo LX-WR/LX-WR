@@ -2,7 +2,7 @@
 ### You have stumbled upon LX2023's github account! For that, you gain lore (yAy):
 
 * This is da offical LX2023 github account
-* I'm currently using github to look at STK development, build an app and a website (website link: http://68.134.47.195:8080/)
+* I'm currently using github to look at STK development, build an app and a website (website link: http://lxcorp.ddns.net/index.html)
 * I am a sussy bAkA
 * Weebie enemy number one (da_weebie_killar)
 * Has no plan and no bs
